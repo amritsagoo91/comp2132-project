@@ -1,0 +1,14 @@
+.container {
+    width: 850px;
+    background-color: #fff;
+    display: flex;
+    align-items: flex-end;
+    gap: 70px;
+    padding: 60px 40px;
+    border-radius: 10px;
+}
+
+.header {
+    color: var(--accent-color);
+    margin-bottom: 20px;
+}

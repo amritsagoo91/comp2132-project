@@ -1,0 +1,416 @@
+{
+    "words": [
+        {
+            "word": "apple",
+            "hint": "A common red or green fruit."
+        },
+        {
+            "word": "banana",
+            "hint": "A long, yellow tropical fruit."
+        },
+        {
+            "word": "guitar",
+            "hint": "A musical instrument with strings."
+        },
+        {
+            "word": "elephant",
+            "hint": "The largest land animal."
+        },
+        {
+            "word": "ocean",
+            "hint": "A vast body of saltwater."
+        },
+        {
+            "word": "mountain",
+            "hint": "A large natural elevation of the earth's surface."
+        },
+        {
+            "word": "sun",
+            "hint": "A star at the center of our solar system."
+        },
+        {
+            "word": "moon",
+            "hint": "Earth's only natural satellite."
+        },
+        {
+            "word": "rainbow",
+            "hint": "A multicolored arc in the sky after rain."
+        },
+        {
+            "word": "tiger",
+            "hint": "A large wild cat with orange and black stripes."
+        },
+        {
+            "word": "computer",
+            "hint": "An electronic device for processing data."
+        },
+        {
+            "word": "pencil",
+            "hint": "A tool used for writing or drawing."
+        },
+        {
+            "word": "clock",
+            "hint": "A device for telling time."
+        },
+        {
+            "word": "book",
+            "hint": "A collection of written pages."
+        },
+        {
+            "word": "lamp",
+            "hint": "A device that produces light."
+        },
+        {
+            "word": "bridge",
+            "hint": "A structure that connects two places."
+        },
+        {
+            "word": "piano",
+            "hint": "A musical instrument with black and white keys."
+        },
+        {
+            "word": "train",
+            "hint": "A mode of transportation on rails."
+        },
+        {
+            "word": "bicycle",
+            "hint": "A two-wheeled vehicle powered by pedaling."
+        },
+        {
+            "word": "garden",
+            "hint": "A place where plants are grown."
+        },
+        {
+            "word": "pizza",
+            "hint": "A popular dish with cheese and toppings."
+        },
+        {
+            "word": "soccer",
+            "hint": "A sport played with a round ball and two goals."
+        },
+        {
+            "word": "fire",
+            "hint": "A source of heat and light from combustion."
+        },
+        {
+            "word": "diamond",
+            "hint": "A valuable, sparkling gemstone."
+        },
+        {
+            "word": "airplane",
+            "hint": "A flying vehicle with wings."
+        },
+        {
+            "word": "camera",
+            "hint": "A device used for taking photos."
+        },
+        {
+            "word": "window",
+            "hint": "An opening in a wall that lets light in."
+        },
+        {
+            "word": "teacher",
+            "hint": "A person who educates students."
+        },
+        {
+            "word": "doctor",
+            "hint": "A professional who treats illnesses."
+        },
+        {
+            "word": "butterfly",
+            "hint": "An insect with colorful wings."
+        },
+        {
+            "word": "penguin",
+            "hint": "A flightless bird that lives in cold regions."
+        },
+        {
+            "word": "castle",
+            "hint": "A large fortified building from medieval times."
+        },
+        {
+            "word": "desert",
+            "hint": "A dry, sandy region with little rainfall."
+        },
+        {
+            "word": "chocolate",
+            "hint": "A sweet treat made from cocoa."
+        },
+        {
+            "word": "robot",
+            "hint": "A machine that can perform tasks automatically."
+        },
+        {
+            "word": "mirror",
+            "hint": "A reflective surface used to see oneself."
+        },
+        {
+            "word": "volcano",
+            "hint": "A mountain that erupts with lava."
+        },
+        {
+            "word": "kangaroo",
+            "hint": "A jumping marsupial from Australia."
+        },
+        {
+            "word": "library",
+            "hint": "A place where books are kept."
+        },
+        {
+            "word": "rocket",
+            "hint": "A vehicle used to travel into space."
+        },
+        {
+            "word": "carrot",
+            "hint": "An orange vegetable that grows underground."
+        },
+        {
+            "word": "moonlight",
+            "hint": "The light that comes from the moon."
+        },
+        {
+            "word": "jellyfish",
+            "hint": "A sea creature with tentacles."
+        },
+        {
+            "word": "violin",
+            "hint": "A string instrument played with a bow."
+        },
+        {
+            "word": "air",
+            "hint": "The invisible gas we breathe."
+        },
+        {
+            "word": "whale",
+            "hint": "The largest mammal in the ocean."
+        },
+        {
+            "word": "spider",
+            "hint": "An eight-legged insect that spins webs."
+        },
+        {
+            "word": "parrot",
+            "hint": "A colorful bird that can mimic speech."
+        },
+        {
+            "word": "rain",
+            "hint": "Water that falls from the sky in droplets."
+        },
+        {
+            "word": "sandwich",
+            "hint": "A meal made with bread and fillings."
+        },
+        {
+            "word": "zebra",
+            "hint": "A black and white striped animal."
+        },
+        {
+            "word": "planet",
+            "hint": "A large celestial body that orbits a star."
+        },
+        {
+            "word": "chair",
+            "hint": "A piece of furniture for sitting."
+        },
+        {
+            "word": "earthquake",
+            "hint": "A sudden shaking of the ground."
+        },
+        {
+            "word": "basketball",
+            "hint": "A sport where players shoot a ball into a hoop."
+        },
+        {
+            "word": "bottle",
+            "hint": "A container for holding liquids."
+        },
+        {
+            "word": "submarine",
+            "hint": "A watercraft that moves underwater."
+        },
+        {
+            "word": "candle",
+            "hint": "A wax stick that produces light when lit."
+        },
+        {
+            "word": "forest",
+            "hint": "A large area filled with trees."
+        },
+        {
+            "word": "map",
+            "hint": "A visual representation of an area."
+        },
+        {
+            "word": "snowman",
+            "hint": "A figure made of snow."
+        },
+        {
+            "word": "honey",
+            "hint": "A sweet liquid made by bees."
+        },
+        {
+            "word": "lighthouse",
+            "hint": "A tower that emits light to guide ships."
+        },
+        {
+            "word": "pyramid",
+            "hint": "A large triangular structure from ancient Egypt."
+        },
+        {
+            "word": "fountain",
+            "hint": "A structure that releases water."
+        },
+        {
+            "word": "compass",
+            "hint": "A tool used to find directions."
+        },
+        {
+            "word": "microscope",
+            "hint": "A device used to see tiny objects."
+        },
+        {
+            "word": "telescope",
+            "hint": "A device used to see distant objects in space."
+        },
+        {
+            "word": "windmill",
+            "hint": "A structure that uses wind to generate power."
+        },
+        {
+            "word": "binoculars",
+            "hint": "A tool used to see faraway objects."
+        },
+        {
+            "word": "lantern",
+            "hint": "A portable light source."
+        },
+        {
+            "word": "glacier",
+            "hint": "A large mass of ice moving slowly over land."
+        },
+        {
+            "word": "harbor",
+            "hint": "A place where ships dock."
+        },
+        {
+            "word": "storm",
+            "hint": "A violent weather event with strong winds and rain."
+        },
+        {
+            "word": "anchor",
+            "hint": "A heavy object used to keep a ship in place."
+        },
+        {
+            "word": "tunnel",
+            "hint": "An underground passage."
+        },
+        {
+            "word": "cactus",
+            "hint": "A spiky plant that grows in deserts."
+        },
+        {
+            "word": "compass",
+            "hint": "A tool used to find directions."
+        },
+        {
+            "word": "wallet",
+            "hint": "A small case for holding money and cards."
+        },
+        {
+            "word": "ladder",
+            "hint": "A tool used for climbing."
+        },
+        {
+            "word": "helmet",
+            "hint": "Protective headgear worn for safety."
+        },
+        {
+            "word": "cloud",
+            "hint": "A visible mass of water vapor in the sky."
+        },
+        {
+            "word": "river",
+            "hint": "A flowing body of water that moves to the sea."
+        },
+        {
+            "word": "igloo",
+            "hint": "A house made of ice blocks."
+        },
+        {
+            "word": "beacon",
+            "hint": "A signaling light used for navigation."
+        },
+        {
+            "word": "parachute",
+            "hint": "A device used to slow a fall from a height."
+        },
+        {
+            "word": "hedgehog",
+            "hint": "A small spiky mammal."
+        },
+        {
+            "word": "crown",
+            "hint": "A headpiece worn by a king or queen."
+        },
+        {
+            "word": "galaxy",
+            "hint": "A vast system of stars and planets."
+        },
+        {
+            "word": "sculpture",
+            "hint": "A three-dimensional work of art."
+        },
+        {
+            "word": "chess",
+            "hint": "A strategic board game with kings and queens."
+        },
+        {
+            "word": "bamboo",
+            "hint": "A tall, hollow plant often eaten by pandas."
+        },
+        {
+            "word": "crystal",
+            "hint": "A solid material with a repeating pattern."
+        },
+        {
+            "word": "whistle",
+            "hint": "A small device that makes a high-pitched sound."
+        },
+        {
+            "word": "puzzle",
+            "hint": "A game that challenges the mind."
+        },
+        {
+            "word": "teapot",
+            "hint": "A container used for brewing tea."
+        },
+        {
+            "word": "canoe",
+            "hint": "A small, narrow boat paddled by hand."
+        },
+        {
+            "word": "marathon",
+            "hint": "A long-distance running race."
+        },
+        {
+            "word": "trophy",
+            "hint": "An award given for a victory."
+        },
+        {
+            "word": "reef",
+            "hint": "A structure of coral in the ocean."
+        },
+        {
+            "word": "sundial",
+            "hint": "A device that tells time using shadows."
+        },
+        {
+            "word": "pendulum",
+            "hint": "A swinging weight used to measure time."
+        },
+        {
+            "word": "geyser",
+            "hint": "A hot spring that shoots water into the air."
+        }
+    ]
+}
